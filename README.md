@@ -20,6 +20,10 @@ $$
 
 where R is the Single Precision Floating Point Number.
 
+$$
+R^{\frac{1}{N}} = \exp\left(\frac{\ln(R)}{N}\right)
+$$
+
 ### ARCHITECTURE
 
 ![BLOCK-DIAGRAM](https://github.com/user-attachments/assets/ea194546-a137-4027-90d2-1b62f5c7e27b)
