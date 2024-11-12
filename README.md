@@ -41,6 +41,8 @@ $$
 
 ### POST SYNTHESIS RESULTS
 
+There is an improvement in the Area and Power in the implemented design.
+
 ![Screenshot from 2024-11-12 19-36-00](https://github.com/user-attachments/assets/abdaa0c3-ee7f-48ee-9488-3666d7d54dbd)
 
 
