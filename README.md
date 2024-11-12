@@ -41,6 +41,6 @@ $$
 
 ### POST SYNTHESIS RESULTS
 
-![resuts_](https://github.com/user-attachments/assets/41af630a-b9db-4a27-9310-10e6d85459c5)
+![Screenshot from 2024-11-12 19-36-00](https://github.com/user-attachments/assets/abdaa0c3-ee7f-48ee-9488-3666d7d54dbd)
 
 
