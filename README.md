@@ -24,9 +24,11 @@ $$
 R^{\frac{1}{N}} = \exp\left(\frac{\ln(R)}{N}\right)
 $$
 
-### ARCHITECTURE
+### HARDWARE ARCHITECTURE
 
 ![BLOCK-DIAGRAM](https://github.com/user-attachments/assets/ea194546-a137-4027-90d2-1b62f5c7e27b)
+
+### VIVADO IMPLEMENTAION
 
 
 ### SIMULATION RESULTS
