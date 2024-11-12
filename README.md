@@ -1,4 +1,7 @@
 ## COMPUTING Nth ROOT OF FLOATING POINT NUMBER(SINGLE PRECISION) USING CORDIC 
+#### Single Precision Floating Point Representation
+
+
 #### The formula for a single-precision floating-point number can be expressed as:
 
 $$
