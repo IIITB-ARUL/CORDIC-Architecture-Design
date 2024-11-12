@@ -31,6 +31,14 @@ $$
 
 ### SIMULATION RESULTS
 
+#### Square Root
+
+![square_root](https://github.com/user-attachments/assets/4345e23c-1f63-4df0-b72f-1c2eec3c92bb)
+
+#### Cube Root
+
+![CUBE_ROOT](https://github.com/user-attachments/assets/7311444b-d5ff-47fe-b4a9-df2cbdf93110)
+
 ### POST SYNTHESIS RESULTS
 
 
