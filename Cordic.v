@@ -119,31 +119,6 @@ module wrapper_ghv_LV (
     );
      cordicdiv  u2(clk, reset,  x, result);
 
-
-//    always @(posedge clk or posedge reset) begin
-//        if (reset)
-//        begin
-//            current_inputx <= initial_inputx;
-//            current_inputy <= initial_inputy;
-//           // current_inputy <= 16'h0000;
-//            current_inputz <= 30'b0;
-//            i <= 1;
-//            j <=0;
-//             k<=0;
-//         end
-//        else
-//        begin
-//                if(i<max)
-//                begin
-                       
-//                            current_inputx <= module_outputx;
-//                            current_inputy <= module_outputy;
-//                            current_inputz <= module_outputz;
-                            
-              
-                       
-//                  end 
-//end       end
        
     
 
@@ -175,49 +150,7 @@ module ghv (input clk,
      reg signed [29:0] zi_adjusted;
      reg signed [29:0] tanh_inverse_2_neg_i;
         
-//        always @(posedge clk or posedge reset)
-//        begin
-        
-//            if(reset)
-//            begin
-//                x_out <= x_in;
-//                y_out <= y_in;
-//                z_out <= z_in;
-//               // zi_adjusted <= tanh_inverse_2_neg_i;
 
-//                i<=1;
-//                k<=0;
-//                j<=0;
-//            end
-//            else
-//            begin
-//                    if(i<max)
-//                    begin
-//                        if(((i==4)&&(j!=1))||((i==13)&&(k!=2)))
-//                            begin
-                            
-//                               // zi_adjusted <= tanh_inverse_2_neg_i;
-
-//                               x_out <= (y_in[29]==0) ? x_in - (y_in >>> i) : x_in + (y_in >>> i);
-//                               y_out <= (y_in[29]==0) ? y_in - (x_in >>> i) : y_in + (x_in >>> i);
-//                               z_out <= (y_in[29]==0) ? (z_in + zi_adjusted) :(z_in - zi_adjusted);
-//                               j<=j+1;
-//                               k<=k+1;
-//                            end
-//                        else
-//                            begin
-                            
-//                             //zi_adjusted <= tanh_inverse_2_neg_i;
-//                              i<=i+1;
-//                             x_out <= (y_in[29]==0) ? x_in - (y_in >>> i) : x_in + (y_in >>> i);
-//                               y_out <= (y_in[29]==0) ? y_in - (x_in >>> i) : y_in + (x_in >>> i);
-//                               z_out <= (y_in[29]==0) ? (z_in + zi_adjusted) :(z_in - zi_adjusted);
-                              
-//                            end
-//                      end
-//            end
-                    
-//        end
 
       always @(posedge clk or posedge reset)
         begin
