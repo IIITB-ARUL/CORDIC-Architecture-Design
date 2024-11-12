@@ -29,6 +29,8 @@ $$
 ![BLOCK-DIAGRAM](https://github.com/user-attachments/assets/ea194546-a137-4027-90d2-1b62f5c7e27b)
 
 ### VIVADO IMPLEMENTAION
+
+Below is the schematic for the design which is elaborated in Xilinx Vivado
 ![ELABORATEDDESIGN](https://github.com/user-attachments/assets/cab6fd47-36b9-4398-b354-83de183369cf)
 
 ### SIMULATION RESULTS
