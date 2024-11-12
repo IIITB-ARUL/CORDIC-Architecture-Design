@@ -1,5 +1,5 @@
 ## COMPUTING Nth ROOT OF FLOATING POINT NUMBER(SINGLE PRECISION) USING CORDIC 
-#### Single Precision Floating Point Representation
+#### Single Precision Floating Point Representation:
 
 ![fpn_representation](https://github.com/user-attachments/assets/e4b5715b-d29b-40d3-a0f8-23893379a29d)
 
