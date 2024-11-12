@@ -45,7 +45,7 @@ Below is the schematic for the design which is elaborated in Xilinx Vivado
 
 ### POST SYNTHESIS RESULTS
 
-There is an improvement in the Area and Power in the implemented design.
+In the implemented design the pipelined cordic architecture is modified with single stage using feedback. So there is an improvement in the Area and Power in the implemented design.
 
 ![Screenshot from 2024-11-12 19-36-00](https://github.com/user-attachments/assets/abdaa0c3-ee7f-48ee-9488-3666d7d54dbd)
 
